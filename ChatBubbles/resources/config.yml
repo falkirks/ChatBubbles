@@ -1,0 +1,5 @@
+#Main Configuration File For ChatBubbles
+ShowMessageTime: 15
+#The time the message is shown is in seconds
+
+#Im not sure if I will include the config yet
