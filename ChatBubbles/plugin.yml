@@ -1,0 +1,7 @@
+name: ChatBubbles
+main: ChatBubbles\Main
+version: 1.0.0dev
+api: [1.0.0]
+load: POSTWORLD
+authors: [Comedyman937]
+description: "Show players chat messages above their head!"
