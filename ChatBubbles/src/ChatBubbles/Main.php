@@ -15,7 +15,10 @@ class Main extends PluginBase implements Listener{
     }
     
     public function onChat(PlayerChatEvent $event){
-        //TODO Get message, cancel send, and change tag temporarily
+        $player = $event->getPlayer();
+        $message = $event->getMessage();
+        
+        //TODO Get rid of players username, temporarily replace name tag with message
     }
     
     public function onDisable(){
